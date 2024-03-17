@@ -1,0 +1,15 @@
+.Navbar{
+    display: flex;
+    background-color: rgb(186, 186, 240);
+    height: 50px;
+    align-items: center;
+    cursor: pointer;
+}
+.Navbar ul{
+    display: flex;
+}
+ul{
+    list-style: none;
+    gap:70px;
+    align-items: center;
+}
